@@ -4,10 +4,8 @@ Class: CPSC350-02
 Files: input.txt, main.cpp, MinHeap.h, README.txt, WGraph.h, WGraph.cpp
 Date Submitted: 12/5/24
 
-Compiling command: 
-```g++ *.cpp -o A6.exe```
-Run command: 
-```./A6.exe input.txt```
+Compiling command: g++ *.cpp -o A6.exe
+Run command: ./A6.exe input.txt
 
 !!! ERROR !!!
     - sometimes it gives weird compiling errors when I run it in docker, but it usually works eventually and always works when I don't run it through docker
