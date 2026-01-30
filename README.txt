@@ -1,5 +1,5 @@
 PA 6: Kruskal's
-Author: Grace Swartz (2414391, gswartz@chapman.edu)
+Author: Grace Swartz
 Class: CPSC350-02
 Files: input.txt, main.cpp, MinHeap.h, README.txt, WGraph.h, WGraph.cpp
 Date Submitted: 12/5/24
